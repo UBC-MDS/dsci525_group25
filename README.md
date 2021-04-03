@@ -7,7 +7,7 @@ This repository contains a python project to build ensemble machine learning mod
 The dataset used by this project is from [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681), put together by Tom.
 
 ## Contributors
-Jason [@jachang0628](https://github.com/jachang0628)
+Jason Chang [@jachang0628](https://github.com/jachang0628)
 
 Fei Chang [@fei-chang](https://github.com/fei-chang)
 
